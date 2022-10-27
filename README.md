@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨🏻‍🎓 I've just completed the taught modules from a HDip in Data Analytics at GMIT (Galway Mayo Institute of Technology) and am just waiting to complete a placement. Most of the work here is part of projects and coursework from those studies.
+👨🏻‍🎓 I've just completed the taught modules from a HDip in Data Analytics at ATU (Atlantic Technological University - formerly Galway Mayo Institute of Technology) and am just waiting to complete a placement. Most of the work here is part of projects and coursework from those studies.
 
 🥸 While looking for a job I'm keeping in touch with short LinkedIn Learning courses so most of the recent work is from those.
 
@@ -8,19 +8,4 @@
 
 🎹🎻🎼 Been a professional musician for the past 25 years so all of this new and exciting!
 
-You can get in touch at caoimhinvallely@gmail.com
-
-<!--
-**Caoimhinv/Caoimhinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can get in touch at caoimhinvallely@gmail.com or through https://www.linkedin.com/in/caoimhinvallely/
